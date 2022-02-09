@@ -3,7 +3,7 @@
 - 👩🏻‍💻 Atualmente estou em busca do meu primeiro emprego
 - 🌱 Estudando desenvolvimento web - front end
 - 📧 Entre em contato comigo: andressa.santo14@gmail.com
-- 😄 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/andressa-s">
